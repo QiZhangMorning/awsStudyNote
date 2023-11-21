@@ -2,16 +2,18 @@
 
 ## Table of Contents
 1. [Exam Structure](#exam-structure)
-2. 
+2. [Cloud Concepts](#cloud-concepts)
+3. [Technology](#technology)
+4. [Security and Compliance](#security-and-compliance)
+5. [Billing and Pricing](#billing-and-pricing)
 
 
 ## Exam Structure:
-- 65 Questions. Passing=700scores/70%
-  
+- 65 Questions.
+- Passing=700scores/70%
 - Format:
   - Multiple choice
-  - Multiple responses
-    
+  - Multiple choice with multiple responses 
 - Domain Areas:
   - Cloud Concepts: 26%
   - Security and Compliance: 25%
