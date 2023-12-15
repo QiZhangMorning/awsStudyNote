@@ -1,7 +1,24 @@
 # AWS Certified Cloud Practitioner Note
 
 ## Table of Contents
-## 1.[Cloud Concepts](## Cloud Concepts)
+1. [Exam Structure](#exam-structure)
+2. [Cloud Concepts](#cloud-concepts)
+3. [Technology](#technology)
+4. [Security and Compliance](#security-and-compliance)
+5. [Billing and Pricing](#billing-and-pricing)
+
+
+## Exam Structure:
+- 65 Questions.
+- Passing=700scores/70%
+- Format:
+  - Multiple choice
+  - Multiple choice with multiple responses 
+- Domain Areas:
+  - Cloud Concepts: 26%
+  - Security and Compliance: 25%
+  - Technology: 33%
+  - Billing and Pricing: 16%
 
 ## Cloud Concepts
 
